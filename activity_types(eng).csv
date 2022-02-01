@@ -1,0 +1,17 @@
+﻿Task ID,Name,Category,Score,Active
+,Attend offline community program,Participation,5,1
+,Attend online community program,Participation,3,1
+,Attend offline community event,Participation,2,1
+,Attend online community event,Participation,1,1
+,Run offline community program,Operation,10,1
+,Run online community program,Operation,8,1
+,Run offline community event,Operation,6,1
+,Run online community event,Operation,4,1
+,Provide offline place for the community,Operation,2,1
+,Upload contents to Ludium Library,Open Source,5,1
+,Suggest community proposal,Open Source,5,1
+,"Post ""GM"" on discord #GM",Activity(Daily),1,1
+,Post information on discord,Activity(Daily),1,1
+,Tweet about Ludium,Activity(Daily),1,1
+,Post an article about Ludium,Activity(Daily),1,1
+,"Support grant(MAX 5.0EHT per person, Round 1 Limit: 70ETH)",Patronage(0.5ETH),100,1
